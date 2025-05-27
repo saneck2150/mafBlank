@@ -14,9 +14,6 @@ A lightweight Flutter application that helps a moderator (“judge”) run a cla
 | **Logs**          | • Save the current round to an in-memory log with one tap.<br>• View the entire log in a scrollable dialog and copy it to clipboard. |
 | **Architecture**  | Code split into **`pages/`** and (optionally) **`widgets/`** so each file stays small and readable. |
 
----
-
-(Only three core files are required; the `widgets/` folder is suggested if you want to break the voting table into its own stateless widget.)
 
 ---
 
